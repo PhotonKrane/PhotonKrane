@@ -13,7 +13,7 @@
 
   <!-- Segunda Imagem com Link -->
   <a href="https://github.com/PhotonKrane">
-    <img src="https://media.tenor.com/TcGFFG6utCkAAAAj/dancing-cat-dance.gif" width="20%" />
+    <img src="https://media.tenor.com/d-HSksPE2dMAAAAi/cat-dance-happy-dance-cat.gif" width="20%" />
   </a>
 
 </div>
