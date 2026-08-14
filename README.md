@@ -4,8 +4,22 @@
 - **📖 Estudo Desenvolvimento de Software Multiplataforma**
 - **😉 Pronomes: Ele/Dele**
   
-<div href="https://github.com/PhotonKrane" style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://media.tenor.com/_BWXPLw-l6sAAAAi/breakdance.gif" width="20%" />
-  <img src="https://media.tenor.com/TcGFFG6utCkAAAAj/dancing-cat-dance.gif" width="20%" />
+<div style="display: flex; gap: 10px; align-items: center">
+  
+  <!-- Primeira Imagem com Link -->
+  <a href="https://github.com/PhotonKrane">
+    <img src="https://media.tenor.com/_BWXPLw-l6sAAAAi/breakdance.gif" width="20%" />
+  </a>
+
+  <!-- Segunda Imagem com Link -->
+  <a href="https://github.com/PhotonKrane">
+    <img src="https://media.tenor.com/TcGFFG6utCkAAAAj/dancing-cat-dance.gif" width="20%" />
+  </a>
+
 </div>
 
+<div style="display: inline_block"><br>
+  <img />
+</div>
+  
+</div>
