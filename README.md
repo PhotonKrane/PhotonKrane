@@ -21,7 +21,7 @@
     <img align="center" alt="PyMy" height="40px" width="50px" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img align="center" alt="JSMy" height="40px" width="50px" src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"/>
+    <img align="center" alt="C++My" height="40px" width="50px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
   </a>
   
   
