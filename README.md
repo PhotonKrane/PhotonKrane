@@ -17,7 +17,7 @@
 
 ##
   
-  ### Linguagens Principais
+  ### Linguagens que Conheço
   
   <div style="display: inline_block"><br>
     <a href="https://kotlinlang.org/docs/home.html">
