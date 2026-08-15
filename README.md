@@ -20,11 +20,11 @@
   ### Linguagens Principais
   
   <div style="display: inline_block"><br>
-    <a href="https://docs.python.org/3/">
-      <img align="center" alt="PyMy" height="50px" width="50px" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"/>
+    <a href="https://kotlinlang.org/docs/home.html">
+          <img align="center" alt="KotlinMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img align="center" alt="C++My" height="50px" width="50px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
+          <img align="center" alt="C++nMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     </a>
     <img align="right" alt="MyGif" height="200px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl4cXhzd2FneTE4eDRzaGxsdGMwbWowdzV2dHM0eXhmc29nNDl1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qEzeYUGm19ZjBe7IJt/giphy.gif"/>
   </div>
