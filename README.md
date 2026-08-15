@@ -26,7 +26,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img align="center" alt="C++nMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     </a>
-    <img align="right" alt="MyGif" height="200px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl4cXhzd2FneTE4eDRzaGxsdGMwbWowdzV2dHM0eXhmc29nNDl1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qEzeYUGm19ZjBe7IJt/giphy.gif"/>
+    <img align="right" alt="MyGif" height="160px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl4cXhzd2FneTE4eDRzaGxsdGMwbWowdzV2dHM0eXhmc29nNDl1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qEzeYUGm19ZjBe7IJt/giphy.gif"/>
   </div>
 
 ##
