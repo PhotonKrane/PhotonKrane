@@ -26,7 +26,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img align="center" alt="C++My" height="50px" width="50px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
     </a>
-    
+    <img align="right" alt="MyGif" height="200px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl4cXhzd2FneTE4eDRzaGxsdGMwbWowdzV2dHM0eXhmc29nNDl1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qEzeYUGm19ZjBe7IJt/giphy.gif"/>
   </div>
 
 ##
@@ -47,3 +47,7 @@
     <a href = "mailto:i.cs020822@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/isaac-correa-7960bb370/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+##
+
+  
