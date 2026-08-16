@@ -26,7 +26,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img align="center" alt="C++nMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     </a>
-    <img align="right" alt="MyGif" height="120px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl4cXhzd2FneTE4eDRzaGxsdGMwbWowdzV2dHM0eXhmc29nNDl1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qEzeYUGm19ZjBe7IJt/giphy.gif"/>
   </div>
 
 ##
@@ -41,6 +40,7 @@
 
   ### Meus Contatos:
   <div> 
+    <img align="right" alt="MyGif" height="120px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl4cXhzd2FneTE4eDRzaGxsdGMwbWowdzV2dHM0eXhmc29nNDl1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qEzeYUGm19ZjBe7IJt/giphy.gif"/>
     <a href="https://www.youtube.com/channel/UCzm7SAykpRmwGKVp5sNq8dA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/isaas.core/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/users/471437888861634562" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
