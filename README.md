@@ -23,8 +23,17 @@
     <a href="https://kotlinlang.org/docs/home.html">
           <img align="center" alt="KotlinMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     </a>
+    <a href="https://docs.arduino.cc/">
+          <img align="center" alt="ArduinoMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+    </a>
+    <a href="https://devdocs.io/cpp/">
+          <img align="center" alt="C++My" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    </a>
+    <a href="https://devdocs.io/c/">
+          <img align="center" alt="CMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img align="center" alt="C++nMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          <img align="center" alt="JSMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     </a>
   </div>
 
