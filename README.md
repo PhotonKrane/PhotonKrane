@@ -19,21 +19,33 @@
   
   ### Linguagens que Conheço
   
-  <div style="display: inline_block"><br>
+  <div style="display: grid"><br>
     <a href="https://kotlinlang.org/docs/home.html">
-          <img align="center" alt="KotlinMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+          <img hspace="16" align="center" alt="KotlinMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     </a>
     <a href="https://docs.arduino.cc/">
-          <img align="center" alt="ArduinoMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+          <img hspace="16" align="center" alt="ArduinoMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
     </a>
     <a href="https://devdocs.io/cpp/">
-          <img align="center" alt="C++My" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          <img hspace="16" align="center" alt="C++My" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     </a>
     <a href="https://devdocs.io/c/">
-          <img align="center" alt="CMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          <img hspace="16" align="center" alt="CMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img align="center" alt="JSMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          <img hspace="16" align="center" alt="JSMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img hspace="16" align="center" alt="HTMLMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    </a>
+    <a href="https://devdocs.io/css/">
+      <img hspace="16" align="center" alt="CSSMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction">
+      <img hspace="16" align="center" alt="XMLMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-plain.svg"/>
+    </a>
+    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html">
+      <img hspace="16" align="center" alt="BashMy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
     </a>
   </div>
 
