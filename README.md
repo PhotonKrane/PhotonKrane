@@ -54,7 +54,7 @@
   ### Meus cards...
   <div style="display:flex; gap:20px; align-items:center">
     <img height="500px" src="https://github-stats-extended.vercel.app/api?username=PhotonKrane&custom_title=Sobre+PhotonKrane&icons=true&theme=calm&rank&include_all_commits=true"/>
-    <img height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhotonKrane&langs_count=4&custom_title=Linguagens+Principais&theme=calm&rank&include_all_commits=true"/>
+    <img height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhotonKrane&langs_count=5&custom_title=Linguagens+Principais&theme=calm&rank&include_all_commits=true"/>
   </div>
 
 ## 
